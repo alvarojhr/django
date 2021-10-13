@@ -1,6 +1,6 @@
-======
-Django
-======
+==================
+Welcome to Django
+==================
 
 Django is a high-level Python web framework that encourages rapid development
 and clean, pragmatic design. Thanks for checking it out.
@@ -56,3 +56,6 @@ If you depend on Django, remember to support the Django Software Foundation: htt
 
 
 AQUI VENGO A DAÑARLES EL TRABAJO
+
+
+# Thanks
